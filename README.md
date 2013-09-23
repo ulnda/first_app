@@ -1,3 +1,6 @@
+# Ruby on Rails Tutorial: Первое приложение
+Это первое приложение на рельсах по туториалу Майкла Хартла
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
